@@ -1,19 +1,22 @@
 # Complete Web Development Bootcamp
 
-A learning repository for practicing the fundamentals of web development through small HTML, CSS, and JavaScript exercises.
+A hands-on learning repository for building web development fundamentals through HTML, CSS, and JavaScript practice, with a path toward modern full-stack development.
 
-## What this repository contains
+## Overview
 
-The repository currently contains early-stage practice files such as:
+The repository records the early stages of my web-development learning. The code is intentionally exercise-oriented rather than presented as a single production application.
 
-- HTML page structure and markup
-- CSS experimentation
-- JavaScript practice files
-- Small exercises and experiments created while learning web development
+## Current Focus
 
-The current codebase is intentionally simple. It represents the practice stage of learning rather than a finished production application.
+- HTML and semantic markup
+- CSS fundamentals
+- JavaScript fundamentals
+- DOM manipulation
+- Browser APIs
+- Modern JavaScript
+- Small experiments and exercises
 
-## Project structure
+## Current Structure
 
 ```text
 complete-web-development-with-bootcamp/
@@ -24,40 +27,50 @@ complete-web-development-with-bootcamp/
 └── .vscode/
 ```
 
-## Learning direction
+## Learning Roadmap
 
-The goal of this repository is to gradually move from basic web fundamentals toward full-stack development.
+```text
+HTML
+ ↓
+CSS + Responsive Design
+ ↓
+JavaScript + DOM
+ ↓
+Async JavaScript + APIs
+ ↓
+Git / GitHub
+ ↓
+React
+ ↓
+Node.js + Backend
+ ↓
+REST APIs
+ ↓
+Databases + Authentication
+ ↓
+Full-Stack Projects
+```
 
-### Planned progression
+## Getting Started
 
-1. HTML fundamentals
-2. CSS fundamentals and responsive design
-3. JavaScript fundamentals
-4. DOM manipulation and browser APIs
-5. Modern JavaScript and asynchronous programming
-6. Git and GitHub workflow
-7. React
-8. Node.js and backend development
-9. REST APIs
-10. Databases and authentication
-11. Full-stack projects
+```bash
+git clone https://github.com/majordevbhargav/complete-web-development-with-bootcamp.git
+cd complete-web-development-with-bootcamp
+```
 
-## Learning approach
+Open the HTML exercises in a browser or use a local development server when required.
 
-This repository is part of a broader learning process:
+## Learning Method
 
-**Learn → Understand → Write → Break → Debug → Build → Document → Improve**
+**Learn → Write → Break → Debug → Experiment → Build → Document**
 
-The purpose is not to make every exercise perfect. The repository records the progression from basic concepts to practical development.
+## Future Direction
 
-## Future goal
-
-Use these fundamentals as the foundation for building complete applications and eventually connecting web development with backend engineering, networking, automation, and AI-based projects.
+The long-term goal is to use web development as part of a broader engineering skill set spanning Java, backend systems, networking, automation, and AI.
 
 ## Author
 
 **Dev Bhargav**
 
-GitHub: https://github.com/majordevbhargav
-
-LinkedIn: https://www.linkedin.com/in/devbhargav100
+- GitHub: https://github.com/majordevbhargav
+- LinkedIn: https://www.linkedin.com/in/devbhargav100
